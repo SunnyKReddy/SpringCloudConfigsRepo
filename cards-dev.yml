@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "ConfigServer: git: Welcome to EazyBank CARDS related Dev APIs - new"
+  message: "ConfigServer: git: Welcome to EazyBank CARDS related Dev APIs - Refresh"
   contactDetails:
     name: "John Doe - Developer"
     email: "john-cards@eazybank.com"
