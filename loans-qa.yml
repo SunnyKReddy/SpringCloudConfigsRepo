@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "ConfigServer: FileSystem: Welcome to EazyBank LOANS related QA APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john-loans@eazybank.com"
+  onCallSupport:
+    - (555) 555-2345
+    - (555) 523-2345

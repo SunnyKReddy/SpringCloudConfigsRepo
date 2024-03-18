@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "ConfigServer: FileSystem: Welcome to EazyBank ACCOUNTS related Prod APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-5678
+    - (555) 523-5678

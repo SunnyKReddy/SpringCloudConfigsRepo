@@ -1,0 +1,12 @@
+build:
+  version: "4.0"
+
+loans:
+  message: "ConfigServer: FileSystem: Welcome to EazyBank LOANS related Dev APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john-loans@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1234
+    - (666) 767-1234
