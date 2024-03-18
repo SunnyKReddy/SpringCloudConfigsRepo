@@ -5,7 +5,7 @@ accounts:
   message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Dev APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "{cipher}85b74dac4d3fa32390128d439cb688f1be1c548e71487a549a2b050ea1edb8854c23803ec4c9d9fe784fa9d926ef9519"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1234
