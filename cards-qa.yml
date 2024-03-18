@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "ConfigServer: FileSystem: Welcome to EazyBank CARDS related QA APIs"
+  message: "ConfigServer: git: Welcome to EazyBank CARDS related QA APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john-cards@eazybank.com"

@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "ConfigServer: FileSystem: Welcome to EazyBank LOANS related Prod APIs"
+  message: "ConfigServer: git: Welcome to EazyBank LOANS related Prod APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john-loans@eazybank.com"

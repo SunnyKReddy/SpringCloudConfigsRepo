@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "ConfigServer: FileSystem: Welcome to EazyBank ACCOUNTS related Dev APIs"
+  message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Dev APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
