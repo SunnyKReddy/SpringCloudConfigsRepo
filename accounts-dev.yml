@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Dev APIs"
+  message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Dev APIs - new"
   contactDetails:
     name: "John Doe - Developer1"
     email: "{cipher}0f6afb1ad33b3747f32f717dea2be2767e91da120b5ac5109b7428d5b5425dee89cccc32ba8971bc593019ed210794d9"
