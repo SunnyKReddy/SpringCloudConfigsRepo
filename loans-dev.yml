@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 loans:
-  message: "ConfigServer: git: Welcome to EazyBank LOANS related Dev APIs - new"
+  message: "ConfigServer: git: Welcome to EazyBank LOANS related Dev APIs - Refresh"
   contactDetails:
     name: "John Doe - Developer"
     email: "john-loans@eazybank.com"
