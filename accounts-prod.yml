@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Prod APIs"
+  message: "ConfigServer: git: Welcome to EazyBank ACCOUNTS related Prod APIs - ping update"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
