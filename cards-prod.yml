@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "ConfigServer: git: Welcome to EazyBank CARDS related Prod APIs"
+  message: "ConfigServer: git: Welcome to EazyBank CARDS related Prod APIs - ping test"
   contactDetails:
     name: "John Doe - Developer"
     email: "john-cards@eazybank.com"
